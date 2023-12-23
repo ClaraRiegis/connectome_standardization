@@ -6,7 +6,7 @@ We looked into the dependence of network organisation on overall functional conn
 
 The code is broken down as following:
 
-**- I - abide_data.py**
+- I - abide_data.py
     - 0 - Libraries
     - 1 - Dowload data
     - 2 - Retrieve data
@@ -17,6 +17,6 @@ The code is broken down as following:
     - 7 - Save data
     
 --------------------------------------
-**- II -**
+- II -
 
 
