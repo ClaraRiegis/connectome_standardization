@@ -1,24 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Dec 23 12:16:32 2023
-
-@author: clarariegis
-
-@author: clarariegis
-
    AUTHOR: Clara Riégis
-
      NAME: abide_data.py
-
   PURPOSE: Visualise data and phenotypes of the participants, 
            Undergraduate project supervised by Dr. František Váša
-
 QUESTIONS: Do graph theoretic measures depend on overall mean functional connectivity? 
            Is this affected by different pre-processing pipelines ? 
            Which of NR, MR and GSR lead to the best classification? 
            Is this effect specific to one atlas/ datasets? 
-
 
     OVERVIEW
     –––––––––––––––––––––––––––––––––––––––––––––––
@@ -56,7 +46,7 @@ os.chdir('/Users/clarariegis/Desktop/Kings/Y3_2022_23/project/code')
 from raincloud import raincloud
 from graph_measures import graph_measures
 
-#%%                - 1 - Main nalysises
+#%%                - 1 - Analyses
 
 
 size_plt = 20
