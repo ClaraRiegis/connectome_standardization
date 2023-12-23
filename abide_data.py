@@ -3,7 +3,7 @@
 """
    AUTHOR: Clara Riégis
      NAME: abide_data.py
-  PURPOSE: data download and cleanup, 
+  PURPOSE: data download and inspection, 
            Undergraduate project supervised by Dr. František Váša
 QUESTIONS: Do graph theoretic measures depend on overall mean functional connectivity? 
            Is this affected by different pre-processing pipelines ? 
