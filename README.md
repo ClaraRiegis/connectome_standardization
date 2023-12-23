@@ -6,15 +6,16 @@ We looked into the dependence of network organisation on overall functional conn
 
 The code is broken down as following:
 
-- I - abide_data.py
-    - 0 - Libraries
-    - 1 - Dowload data 
-    - 2 - Retrieve data   
-    - 3 - time series inspection  
-    - 4 - check parcellation process 
-    - 5 - exclude ts causing issue   
-    - 6 - exclude remaining pcps = 0 
-    - 7 - Save data
+** I - abide_data.py ** 
+    0 - Libraries
+    1 - Dowload data 
+    2 - Retrieve data   
+    3 - time series inspection  
+    4 - check parcellation process 
+    5 - exclude ts causing issue   
+    6 - exclude remaining pcps = 0 
+    7 - Save data
+    
 --------------------------------------
  - II - 
 
