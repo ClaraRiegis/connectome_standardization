@@ -1,17 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Dec 23 10:55:07 2023
-
-  @author: clarariegis
-
    AUTHOR: Clara Riégis
-
      NAME: abide_data.py
-
   PURPOSE: Visualise data and phenotypes of the participants, 
            Undergraduate project supervised by Dr. František Váša
-
 QUESTIONS: Do graph theoretic measures depend on overall mean functional connectivity? 
            Is this affected by different pre-processing pipelines ? 
            Which of NR, MR and GSR lead to the best classification? 
