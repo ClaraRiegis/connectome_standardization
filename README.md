@@ -22,6 +22,9 @@ The code is broken down as following:
      - 1 - Descriptive stats
      - 2 - Prepare the data for analysis     
      - 3 - Distance matrix         
-     - 4 - Data visualisation (before exclusions)  
+     - 4 - Data visualisation (before exclusions)
+     - 5 - Balanced framewise displacement
+  
+--------------------------------------
 
 
