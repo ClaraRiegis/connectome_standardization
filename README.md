@@ -17,6 +17,11 @@ The code is broken down as following:
     - 7 - Save data
     
 --------------------------------------
-- II -
+- II - data_visualisation.py
+     - 0 - Libraries
+     - 1 - Descriptive stats
+     - 2 - Prepare the data for analysis     
+     - 3 - Distance matrix         
+     - 4 - Data visualisation (before exclusions)  
 
 
