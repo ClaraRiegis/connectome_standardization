@@ -7,7 +7,6 @@ We looked into the dependence of network organisation on overall functional conn
 The code is broken down as following:
 
 - I - abide_data.py
-    - 0 - Libraries
     - 1 - Dowload data
     - 2 - Retrieve data
     - 3 - time series inspection
@@ -15,16 +14,13 @@ The code is broken down as following:
     - 5 - exclude ts causing issue
     - 6 - exclude remaining pcps = 0
     - 7 - Save data
-    
 --------------------------------------
 - II - data_visualisation.py
-     - 0 - Libraries
      - 1 - Descriptive stats
      - 2 - Prepare the data for analysis     
      - 3 - Distance matrix         
      - 4 - Data visualisation (before exclusions)
      - 5 - Balanced framewise displacement
-  
 --------------------------------------
 
 
