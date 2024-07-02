@@ -4,23 +4,4 @@ Code for analyses and figures in "Network organization in proportionally thresho
 
 We looked into the dependence of network organisation on overall functional connectivity. More specifically, we standardised the connectomes using mean functional connectivity regression or global signal regression to remove individual differences in mean functional connectivity. We investigated the effect of such methods on (i) the group differences between in network organisation between autism spectrum disorder patients and typical controls, (ii) the correlation between the measures of network organisation and mean FC, and (iii) diagnosis classification using support vector machines. 
 
-The code is broken down as following:
-
-- I - abide_data.py
-    - 1 - Dowload data
-    - 2 - Retrieve data
-    - 3 - time series inspection
-    - 4 - check parcellation process
-    - 5 - exclude ts causing issue
-    - 6 - exclude remaining pcps = 0
-    - 7 - Save data
---------------------------------------
-- II - data_visualisation.py
-     - 1 - Descriptive stats
-     - 2 - Prepare the data for analysis     
-     - 3 - Distance matrix         
-     - 4 - Data visualisation (before exclusions)
-     - 5 - Balanced framewise displacement
---------------------------------------
-
 
